@@ -1,0 +1,10 @@
+# Obsidian local state
+.obsidian/
+
+# Obsidian trash
+.trash/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
